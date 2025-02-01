@@ -1,0 +1,17 @@
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\obj\Debug\Ex02.csproj.AssemblyReference.cache
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\bin\Debug\Ex02.exe.config
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\bin\Debug\Ex02.exe
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\bin\Debug\Ex02.pdb
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\obj\Debug\Ex02.csproj.Up2Date
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\obj\Debug\Ex02.exe
+D:\c#\project2\Ex02 Bar 207703026 Tal 318876380\Ex02\obj\Debug\Ex02.pdb
+D:\c#\project2\A25 Ex02 BarBrener 207703026 TalBenShimon 318876380\bin\Debug\Ex02.exe.config
+D:\c#\project2\A25 Ex02 BarBrener 207703026 TalBenShimon 318876380\bin\Debug\Ex02.exe
+D:\c#\project2\A25 Ex02 BarBrener 207703026 TalBenShimon 318876380\bin\Debug\Ex02.pdb
+D:\c#\project2\A25 Ex02 BarBrener 207703026 TalBenShimon 318876380\obj\Debug\Ex02.csproj.AssemblyReference.cache
+D:\c#\project2\A25 Ex02 BarBrener 207703026 TalBenShimon 318876380\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+D:\c#\project2\A25 Ex02 BarBrener 207703026 TalBenShimon 318876380\obj\Debug\Ex02.csproj.Up2Date
+D:\c#\project2\A25 Ex02 BarBrener 207703026 TalBenShimon 318876380\obj\Debug\Ex02.exe
+D:\c#\project2\A25 Ex02 BarBrener 207703026 TalBenShimon 318876380\obj\Debug\Ex02.pdb
